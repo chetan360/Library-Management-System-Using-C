@@ -4,7 +4,7 @@
 
 ## Description
 
-The concept of storing or recording the details of books embedded within the user's system is known as Library Management System. It details the type of books, the list of books, etc. Only a person with the login credentials can access the Library Management System. That person can perform many operations like adding the book details, removing the book details, displaying the book details, modifying the book details, etc. Access the code files [here](Project-File/Library-Management-System.c "Library Management System").
+The concept of storing or recording the details of books embedded within the user's system is known as Library Management System. It details the type of books, the list of books, etc. Only a person with the login credentials can access the Library Management System. That person can perform many operations like adding the book details, removing the book details, displaying the book details, modifying the book details, etc.
 
 Things you can do with this system
 
@@ -22,7 +22,7 @@ Things you can do with this system
 - Deleting User record
 - Deleting Book record, etc.
 
-## Password: "Alkaison"
+## Password: "chetan360"
 
 The Library Management System is secured with a layer of authentication password for protecting the files from unauthorized access of strangers. Enter the password and hit ENTER. The password will not be shown publicly, it will shown in ***** format. Read the comments in the code to better understand how it works!
 
@@ -50,11 +50,11 @@ The Library Management System is secured with a layer of authentication password
 
 ### 04. Search Record
 
-![Screenshot 4](Project-Images/list_book_records.png)
+![Screenshot 4](Project-Images/list_book_record.png)
 
 ### 05. Record Modification
 
-![Screenshot 5](Project-Images/search_book.png)
+![Screenshot 5](Project-Images/search_record.png)
 
 ### 06. New Book Record
 
