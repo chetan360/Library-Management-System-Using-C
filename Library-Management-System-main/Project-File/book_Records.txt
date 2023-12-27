@@ -1,0 +1,4 @@
+SQL Donald IBM 1 10 
+Python Guido Microsoft 2 25 
+Java James Oracle 3 14 
+C Dennis NISO 4 20 
